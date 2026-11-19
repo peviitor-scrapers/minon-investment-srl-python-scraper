@@ -1,0 +1,11 @@
+{
+  "id": "09864469",
+  "cui": "9864469",
+  "company": "MINON INVESTMENT S.R.L.",
+  "brand": "Minon Investment",
+  "status": "activ",
+  "location": ["Voluntari"],
+  "website": ["https://www.coffeeisland.ro/"],
+  "career": ["https://mediere.anofm.ro/app/module/mediere/jobs"],
+  "scraperFile": "https://github.com/peviitor-scrapers/minon-investment-srl-python-scraper/actions/workflows/job-seeker-ro-spider.yml"
+}
