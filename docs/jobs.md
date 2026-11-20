@@ -8,7 +8,7 @@
 | Brand | Minon Investment |
 | Website | https://www.coffeeisland.ro/ |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-19 |
+| LastScraped | 2026-11-20 |
 
 ## Jobs (5)
 
@@ -45,4 +45,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-19T11:21:54Z_
+_Generated at 2026-11-20T14:42:05Z_
