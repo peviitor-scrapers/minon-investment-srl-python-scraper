@@ -8,9 +8,9 @@
 | Brand | Minon Investment |
 | Website | https://www.coffeeisland.ro/ |
 | Career | https://mediere.anofm.ro/app/module/mediere/jobs |
-| LastScraped | 2026-11-24 |
+| LastScraped | 2026-11-25 |
 
-## Jobs (4)
+## Jobs (5)
 
 ### barman preparator de cafea (barista)
 
@@ -18,6 +18,12 @@
 - **Location**: BUCURESTI SECTORUL 1
 - **Work Mode**: on-site
 - **Tags**: turism-alimentatie, absolventi, cu-norma-intreaga, cu-durata-nedeterminata, sediu, profesional-scoala-profesionala, experienta-medie-intre-3-si-5-ani
+- **Status**: scraped
+
+### Barman Preparator De Cafea (barista)
+
+- **URL**: [https://www.jobrapid.ro/locuri-de-munca/barman-preparator-de-cafea-barista-in-bucuresti-1733395.html](https://www.jobrapid.ro/locuri-de-munca/barman-preparator-de-cafea-barista-in-bucuresti-1733395.html)
+- **Location**: București
 - **Status**: scraped
 
 ### barman preparator de cafea (barista)
@@ -39,4 +45,4 @@
 - **Status**: scraped
 
 ---
-_Generated at 2026-11-24T16:48:45Z_
+_Generated at 2026-11-25T16:36:13Z_
